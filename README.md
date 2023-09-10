@@ -1,6 +1,6 @@
 # London Bike Rides
 
-[Kaggle Link](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset) for dataset.
+We leveraged the 'london_merged.csv' dataset for a comprehensive data exploration, analysis, and manipulation, and using the Pandas library in Python. Our primary objective was to meticulously prepare a refined dataset, tailor-made for seamless integration into our Tableau visualizations. 
 
 ## Problem Statement
 ### Goal of this project: Visualize demand for bikes given different weather, temperature conditions, seasonality and other temporal conditions in Python and then use Tableau to visualize data.
